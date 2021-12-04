@@ -13,8 +13,8 @@ I am an Intermediate Java Developer (Minecraft) with 2 years of experience and s
 ---
 ## Projects
 
-I have worked on: Club Vaxel, Hydrogen PVP, Resolve Network, Verse.rip (Resigned), PotClub (Resigned)
-I currently own: [Refine Development](https://github.com/RefineDevelopment)
++ I have worked on: Club Vaxel, Hydrogen PVP, Resolve Network, Verse.rip (Resigned), PotClub (Resigned)
++ I currently own: [Refine Development](https://github.com/RefineDevelopment)
 
 ---
 ## Social

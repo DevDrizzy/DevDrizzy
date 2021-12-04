@@ -1,4 +1,4 @@
-![](https://tenor.com/view/cat-dancing-gif-13122757)
+![](https://i.imgur.com/KoAuzZd.gif)
 
 # Hi, Drizzy Here!
 

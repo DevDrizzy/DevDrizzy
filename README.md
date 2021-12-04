@@ -31,7 +31,7 @@ I am an Intermediate Java Developer (Minecraft) with 2 years of experience and s
 + Youtube - [Drizzy](https://youtube.com/c/DrizzyYT)
 + Twitter - [@DevDrizzy](https://github.com/DevDrizzy)
 
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/elangosundar)
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/pappfx)
 
 ---
 Thanks for reading!

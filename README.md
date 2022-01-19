@@ -19,7 +19,7 @@ I am an Intermediate Java Developer (Minecraft) with 2 years of experience and s
 ---
 ## Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDrizzy&show_icons=true&title_color=33B0FF&icon_color=33FFFC&text_color=daf7dc&bg_color=151515&count_private=true)" alt="VantaDev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDrizzy&show_icons=true&title_color=33B0FF&icon_color=33FFFC&text_color=daf7dc&bg_color=151515&count_private=true)" alt="DevDrizzy" />
 
 ## Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DevDrizzy&count_private=true&show_icons=true&title_color=33B0FF&icon_color=33FFFC&text_color=daf7dc&bg_color=151515&hide=["stars"])
@@ -30,9 +30,6 @@ I am an Intermediate Java Developer (Minecraft) with 2 years of experience and s
 + Discord - Drizzy#0278
 + Youtube - [Drizzy](https://youtube.com/c/DrizzyYT)
 + Twitter - [@DevDrizzy](https://github.com/DevDrizzy)
-
-[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/pappfx)
-
 ---
 Thanks for reading!
 - Drizzy

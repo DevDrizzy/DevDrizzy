@@ -4,8 +4,8 @@ I am an Intermediate Java Developer with 2 years of experience and also speciali
 
 ## Specialities
 
-+ Plugins | 2 Years of Experience
-+ Spigots | 2 Years of Experience
++ Spigot Plugins (2 Years of Experience)
++ Spigot Forks (2 Years of Experience)
 
 ## Projects
 
